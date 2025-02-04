@@ -1,51 +1,114 @@
-<h3 align="left">Hi, I'm Aaban Khan 👋<br>👨‍💻 Full-Stack Developer | MERN Stack Enthusiast | AI/ML Learner<br><br>💡 Passionate about Technology: Currently deep-diving into the MERN stack, focusing on building scalable and efficient web applications.<br>🎯 Future Focus: Transitioning towards Artificial Intelligence and Machine Learning to combine data-driven insights with creative problem-solving.<br>🌱 Constant Learner: Always exploring new tech trends, frameworks, and best practices to stay at the forefront of the industry.<br>💼 Practical Experience: Engaged in internships, building dynamic front-end interfaces, and contributing to real-world projects.<br>🚀 Goal: To blend my development skills with AI/ML, creating innovative solutions that drive meaningful impact.</h3>
+### <div align="center">Full-Stack Developer | MERN Stack Enthusiast | AI/ML Learner</div>  
+  
 
-###
+- 💡 Passionate about leveraging technology to build scalable and efficient web applications. Currently diving deep into the MERN stack while exploring the realms of Artificial Intelligence and Machine Learning to combine data-driven insights with creative problem-solving.  
+  
+
+- 🌱 A lifelong learner, I’m constantly exploring new tech trends, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.  
+  
+
+- 💼 With hands-on experience from internships and real-world projects, I specialize in crafting dynamic front-end interfaces and contributing to impactful solutions.  
+  
+
+- 🚀 My goal is to merge my development expertise with AI/ML to create innovative solutions that drive meaningful change.  
+  
+
+🌟 Let’s connect and build something amazing!  
+  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aaban-Khan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_pni4zgktcV1xggw0so1_500.gifv" align="center" style="width: 100%" />
+</div>  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-###
+</td><td valign="top" width="33%">
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/73fe8a09642bc88c0f287fe43ce0f0b05bdf9d6cf474b0ccd178555385078816/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-###
+</td><td valign="top" width="33%">
 
-<div align="left">
-  <a href="https://www.instagram.com/aal3an/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="aabankhan.404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aaban-khan-37513a335/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-###
+</td></tr></table>  
 
-<br clear="both">
+<br/>  
 
-###
+
+## Connect with me  
+<div align="center">
+<a href="https://instagram.com/aal3an" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/aaban-khan-37513a335" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Aaban-Khan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/aal3an" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aaban-khan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
