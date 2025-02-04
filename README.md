@@ -17,7 +17,7 @@
   
 
 <div align="center">
-<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_pni4zgktcV1xggw0so1_500.gifv" align="center" style="width: 100%" />
+<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_pni4zgktcV1xggw0so1_500.gifv" align="center" height="200" width="400" />
 </div>  
   
 
@@ -93,22 +93,4 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
