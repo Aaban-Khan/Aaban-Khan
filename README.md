@@ -1,94 +1,89 @@
-### <div align="center">Full-Stack Developer | MERN Stack Enthusiast | AI/ML Learner</div>  
-  
+<div align="center">
+  <h1>Aaban Khan</h1>
+  <h3>Full-Stack Developer | Python Enthusiast | AI/ML Explorer</h3>
 
-- 💡 Passionate about leveraging technology to build scalable and efficient web applications. Currently diving deep into the MERN stack while exploring the realms of Artificial Intelligence and Machine Learning to combine data-driven insights with creative problem-solving.  
-  
+  <p>
+    <a href="https://linkedin.com/in/aaban-khan-37513a335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/Aaban-Khan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://instagram.com/aal3an"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/aal3an"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  </p>
 
-- 🌱 A lifelong learner, I’m constantly exploring new tech trends, frameworks, and best practices to stay ahead in the ever-evolving tech landscape.  
-  
+  <img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_pni4zgktcV1xggw0so1_500.gifv" width="400" alt="coding animation"/>
+</div>
 
-- 💼 With hands-on experience from internships and real-world projects, I specialize in crafting dynamic front-end interfaces and contributing to impactful solutions.  
-  
+<h2>👨‍💻 About Me</h2>
 
-- 🚀 My goal is to merge my development expertise with AI/ML to create innovative solutions that drive meaningful change.  
-  
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Aaban Khan"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["Django", "React", "Next.js", "Express.js"]
+        self.interests = ["AI/ML", "Cloud Computing", "IoT", "Wearable Tech"]
+        self.current_focus = "Integrating AI/ML with Web Development"
+        
+    def get_bio(self):
+        return """
+        Passionate full-stack developer with a strong focus on Python and Django for backend development,
+        while constantly improving my frontend skills with React and Next.js. Currently exploring 
+        AI/ML to create innovative, data-driven solutions that solve real-world problems.
+        """
+```
 
-🌟 Let’s connect and build something amazing!  
-  
+<h2>🚀 What I'm Up To</h2>
+<ul>
+  <li>🔭 Currently deepening my knowledge of <strong>Full-Stack Development</strong></li>
+  <li>🌱 Learning to integrate <strong>AI/ML</strong> with web applications</li>
+  <li>💡 Exploring <strong>Cloud Computing</strong> for scalable application deployment</li>
+  <li>📚 Constantly updating my skills to stay ahead in the tech landscape</li>
+  <li>🤝 Open to collaboration on innovative web projects</li>
+</ul>
+
+<h2>🛠️ Tech Stack</h2>
 
 <div align="center">
-<img src="https://64.media.tumblr.com/c8cb84c63b6f526b96dfb1734a33131a/tumblr_pni4zgktcV1xggw0so1_500.gifv" align="center" height="200" width="400" />
-</div>  
-  
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  </p>
 
-<br/>  
+  <h3>Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  </p>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+  <h3>DevOps & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+<h2>📈 GitHub Stats</h2>
 <div align="center">
-<a href="https://instagram.com/aal3an" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aaban-khan-37513a335" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Aaban-Khan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/aal3an" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <h2>/// 𝚂𝚈𝚂𝚃𝙴𝙼 𝙼𝙴𝚃𝚁𝙸𝙲𝚂 𝙼𝙾𝙽𝙸𝚃𝙾𝚁 ///</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaban-khan&show_icons=true&theme=radical&title_color=ff0099&text_color=00ffff&icon_color=ff0099&border_color=00ffff&bg_color=0D1117" width="49%" alt="System Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaban-khan&theme=radical&background=0D1117&ring=ff0099&fire=ff0099&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=ff0099&sideLabels=ff0099&dates=00ffff" width="49%" alt="Hack Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaban-khan&theme=redical&bg_color=0D1117&color=00ffff&line=ff0099&point=FFFFFF&area=true&hide_border=false" width="98%" alt="Neural Activity Graph"/>
+</div>
 
-<br/>  
+<h2>🌟 Projects</h2>
+<p><em>Coming soon! I'm currently working on some exciting projects that showcase my skills in full-stack development and AI/ML integration.</em></p>
 
+<h2>💭 Fun Fact</h2>
+<p>When I'm not coding, you can find me exploring new technologies like <strong>IoT</strong> and <strong>wearable devices</strong>, working towards a future where <strong>AI/ML</strong> plays a central role in everyday life.</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aaban-khan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
+<hr/>
