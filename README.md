@@ -77,6 +77,8 @@ class AboutMe:
   <img src="https://github-readme-stats.vercel.app/api?username=aaban-khan&show_icons=true&theme=radical&title_color=ff0099&text_color=00ffff&icon_color=ff0099&border_color=00ffff&bg_color=0D1117" width="49%" alt="System Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaban-khan&theme=radical&background=0D1117&ring=ff0099&fire=ff0099&currStreakNum=00ffff&sideNums=00ffff&currStreakLabel=ff0099&sideLabels=ff0099&dates=00ffff" width="49%" alt="Hack Streak"/>
   <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaban-khan&layout=compact&theme=radical&title_color=ff0099&text_color=00ffff&icon_color=ff0099&border_color=00ffff&bg_color=0D1117" width="49%" alt="Most Used Languages"/>
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaban-khan&theme=redical&bg_color=0D1117&color=00ffff&line=ff0099&point=FFFFFF&area=true&hide_border=false" width="98%" alt="Neural Activity Graph"/>
 </div>
 
