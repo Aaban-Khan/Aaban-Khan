@@ -87,5 +87,3 @@ class AboutMe:
 
 <h2>💭 Fun Fact</h2>
 <p>When I'm not coding, you can find me exploring new technologies like <strong>IoT</strong> and <strong>wearable devices</strong>, working towards a future where <strong>AI/ML</strong> plays a central role in everyday life.</p>
-
-<hr/>
