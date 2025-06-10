@@ -18,15 +18,15 @@
 class AboutMe:
     def __init__(self):
         self.name = "Aaban Khan"
-        self.role = "Full-Stack Developer"
+        self.role = "Tech Enthusiast"
         self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Django", "React", "Next.js", "Express.js"]
+        self.frameworks = ["Flask", "React", "Next.js", "FastAPI"]
         self.interests = ["AI/ML", "Cloud Computing", "IoT", "Wearable Tech"]
         self.current_focus = "Integrating AI/ML with Web Development"
         
     def get_bio(self):
         return """
-        Passionate full-stack developer with a strong focus on Python and Django for backend development,
+        Passionate full-stack developer with a strong focus on Python and Flask for backend development,
         while constantly improving my frontend skills with React and Next.js. Currently exploring 
         AI/ML to create innovative, data-driven solutions that solve real-world problems.
         """
