@@ -59,8 +59,8 @@ class AboutMe:
   <h3>Backend</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/flask-092E20?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/fastapi-092E20?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastApi"/>
   </p>
 
   <h3>DevOps & Tools</h3>
